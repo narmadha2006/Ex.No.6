@@ -31,7 +31,7 @@ Generate the outoput using more than one AI tool and based on the code generatio
 
 # Output:
 
-[PROMPT_EX6](PROMPTEX6REPORT.PDF)
+[PROMPT_EX6](PROMPTEX6REPORT.pdf)
 
 
 # Result: 
